@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="bcprov-jdk15on-1.64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bcprov-jdk15on-1.64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/itecldap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/sdtutil-1.10.0.2.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
